@@ -14,13 +14,21 @@
 
 #### Programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### Web Programming
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-3EC5A3?style=for-the-badge&logo=vue&logoColor=green)
+![Vue](https://img.shields.io/badge/Vue-3EC5A3?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-27B7DE?style=for-the-badge&logo=vuetify&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-AEAEFF?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### Software
+![Arduino](https://img.shields.io/badge/Arduino-05C4BC?style=for-the-badge&logo=arduino&logoColor=white)
 
 #### Databases
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F2DC23style=for-the-badge&logo=firebase&logoColor=white)
 
 #### Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
