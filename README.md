@@ -28,7 +28,7 @@
 
 #### Databases
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F2DC23style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F2DC23?style=for-the-badge&logo=firebase&logoColor=white)
 
 #### Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
