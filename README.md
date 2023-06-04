@@ -6,7 +6,7 @@
 
 ##### EDUCATION
 - 🏫 Science and Mathematics major (Robotics and AI Engineering) at	Assumption College Samutprakarn (2019-2022)
-- :man_student: 
+- :man_student: Computer Science student at KMITL (currently)
 
 
 
